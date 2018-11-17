@@ -52,7 +52,7 @@ var friendsArray = [{
   },
   {
     name:"Michael Bisping",
-    photo:"https://cdn.vox-cdn.com/thumbor/G5U8hY1ke81Yviy3QhbliBULTFg=/0x0:3038x4557/1200x800/filters:focal(1194x565:1680x1051)/cdn.vox-cdn.com/uploads/chorus_image/image/59039933/631413234.jpg.0.jpg",
+    photo:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Michael_Bisping.jpg/245px-Michael_Bisping.jpg",
     scores:[
         1,
         5,
